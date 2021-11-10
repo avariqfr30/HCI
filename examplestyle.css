@@ -1,0 +1,19 @@
+body {
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+h1 {
+  font-family: times new roman;
+  color: black;
+  text-align: center;
+}
+p {
+  font-family: tahoma;
+  color: white;
+  text-align: left;
+}
+li {
+  font-family: herbert;
+  text-align: left;
+}
